@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bundling-practice/static/css/main.98235e6e.css",
+    "main.js": "/bundling-practice/static/js/main.69a8a268.js",
+    "index.html": "/bundling-practice/index.html",
+    "main.98235e6e.css.map": "/bundling-practice/static/css/main.98235e6e.css.map",
+    "main.69a8a268.js.map": "/bundling-practice/static/js/main.69a8a268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98235e6e.css",
+    "static/js/main.69a8a268.js"
+  ]
+}
